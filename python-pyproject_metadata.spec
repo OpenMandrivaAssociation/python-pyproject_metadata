@@ -1,7 +1,7 @@
 Summary:	PEP 621 metadata parsing
 Name:		python-pyproject_metadata
 Version:	0.7.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Python
 URL:		https://pypi.org/project/pyproject_metadata/
